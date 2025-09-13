@@ -1,1 +1,1 @@
-print("Essa é a alteração do John")
+print("Essa alteração foi feita pelo John")
