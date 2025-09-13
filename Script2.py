@@ -1,1 +1,0 @@
-print("Essa alteração foi feita pelo John")
